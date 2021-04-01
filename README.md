@@ -9,6 +9,9 @@
 ## Project Description
 THe Employee Directory allows the user to search employee first and last names in the database
 
+Watch demo
+(https://youtu.be/2NVfbU3LAY0)
+
 ## Project License
 MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
