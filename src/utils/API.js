@@ -6,7 +6,7 @@ export default {
       url: 'https://randomuser.me/api/?results=200',
       dataType: 'json',
       success: function (data) {
-        console.log(It-works);
+        console.log(data);
       }
     }
     return axios(config);
